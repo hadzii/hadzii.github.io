@@ -40,20 +40,20 @@ div.sections {
     max-width: 18.5em; 
     padding-right: 1.3em;
 	/*top: 10px;*/
-	color: #CC0000;
+	color: #E60000;
 	text-align: right;
 }
 
 
 div.sections a:link {
-	color: #990000;
+	color: #E60000;
 	font-variant: small-caps;
 	font-weight: bold;	
 	text-decoration: none;
 }
 
 div.sections a:visited {
-	color: #770000;
+	color: #C60000;
 	text-decoration: none;
 }
 
@@ -96,7 +96,7 @@ code {
 
 h1 a, h2 a, h3 a, h4 a, h5 a { 
     text-decoration: none;
-    color: #7a5ada; 
+    color: #CC0000; 
 }
 h1, h2, h3, h4, h5 { font-family: verdana, sans-serif;
                      font-variant: small-caps;
@@ -189,9 +189,9 @@ ol {
 	margin-right: 5%;
 }
 
-a:link {color: #990000;}
+a:link {color: #E60000;}
 
-a:visited {color: #770000;}
+a:visited {color: #C60000;}
 
 a:hover {color: #FF0000;}
 
